@@ -33,4 +33,4 @@
       }
       
       
-      console.log(countGroups(5,[2, 3, 1, 2, 2]))
+      console.log(countGroups(5,[2, 3, 1, 2, 2])) // 2
