@@ -14,5 +14,5 @@ function reduceToOne(n, k) {
   }
   
   
-  console.log(reduceToOne(25, 3))
+  console.log(reduceToOne(25, 3)) // 6
 
