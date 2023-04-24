@@ -24,7 +24,7 @@ function minimumValue(N, arr) {
             break; // break로 최솟값만 찾은 후 for문을 멈춤, 없으면 끝까지 돌게 됨
         }
     }
-    return result;
+    return result;  
 }
 
 const N = 3;
