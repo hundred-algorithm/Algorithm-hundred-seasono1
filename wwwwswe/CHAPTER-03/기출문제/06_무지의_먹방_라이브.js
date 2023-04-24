@@ -67,7 +67,7 @@ function solution(food_times, k) {
 
 
  
-  /* 도전하려다 실패 
+  /* 도전하려다 실패한 코드
   function solution(food_times, k) {
     let sum = food_times.reduce((acc, cur) => acc + cur, 0);
     if (sum <= k) {
