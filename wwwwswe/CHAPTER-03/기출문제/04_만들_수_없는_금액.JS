@@ -30,4 +30,4 @@ function minimumValue(N, arr) {
 const N = 3;
 const arr = [3, 5, 7];
 
-console.log(minimumValue(N, arr)); // 1
+console.log(minimumValue(N, arr)); // 1 
