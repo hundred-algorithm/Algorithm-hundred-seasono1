@@ -25,4 +25,4 @@
       }
       
       console.log(minFlips('0001100')); // 1
-      
+        
