@@ -9,6 +9,7 @@ function solution(arr, M) {
 }
 console.log(solution([1, 5, 4, 3, 2, 4, 5, 2]));
 console.log(solution([1, 3, 2, 3, 2]));
+console.log(solution([1, 3, 3, 3, 4]));
 
 // 볼링공 고르기 정답 코드
 
@@ -28,7 +29,7 @@ function solution2(arr, M) {
 }
 console.log(solution2([1, 5, 4, 3, 2, 4, 5, 2], 5));
 console.log(solution2([1, 3, 2, 3, 2], 5));
-
+console.log(solution2([1, 3, 3, 3, 4], 5));
 /*
 const fs = require("fs");
 const [N, M] = fs.readFileSync("/dev/stdin").toString().trim().split(" ");

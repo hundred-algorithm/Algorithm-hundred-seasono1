@@ -1,12 +1,16 @@
 // 문자열 뒤짚기
 function solution(num) {
+  //2N
   const replace0 = num.split("1");
+
   const replace1 = num.split("0");
+
   const len0 = replace0.filter((item) => item !== "").length;
   const len1 = replace1.filter((item) => item !== "").length;
 
   return len1 < len0 ? len1 : len0;
 }
+
 console.log(solution("11111")); //0
 console.log(solution("0001100")); //1
 console.log(solution("00000001")); //1
@@ -15,6 +19,7 @@ console.log(solution("11101101")); //2
 
 //답지 풀이
 function solution2(num) {
+  //N
   let count0 = 0; //0으로 바꾸는 횟수
   let count1 = 0; // 1로 바꾸는 횟수
 
