@@ -24,6 +24,6 @@
       
       const N = 5;
       const M = 3;
-      const arr = [1, 3, 2, 3, 2];
+      const arr = [1,3,3,3,4];
       
-      console.log(bowlingBall(N, M, arr)); // 8 
+      console.log(bowlingBall(N, M, arr)); // 7 
