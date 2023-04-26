@@ -50,4 +50,4 @@ function joystick(name) {
 
 console.log(joystick('JAZ')); // 11
 console.log(joystick('JEROEN')); // 56
-console.log(joystick('JAN')); // 23
+console.log(joystick('JAN')); // 23 
