@@ -55,5 +55,3 @@ function solution(number, k) {
 
 console.log(solution('1942', 2)); // 94
 */
-
-
