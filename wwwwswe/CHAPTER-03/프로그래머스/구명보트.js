@@ -26,4 +26,4 @@ function solution(people, limit) {
   }
   
   
-  console.log(solution([70, 50, 80, 50], 100)); // 3
+  console.log(solution([70, 50, 80, 50], 100)); // 3 
