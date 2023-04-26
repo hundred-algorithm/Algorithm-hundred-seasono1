@@ -42,4 +42,4 @@ function solution(n, lost, reserve) {
     return students.filter(student => student > 0).length;
   }
   
-  console.log(solution(5, [2, 4], [2, 3]));
+  console.log(solution(5, [2, 4], [2, 3])); 
