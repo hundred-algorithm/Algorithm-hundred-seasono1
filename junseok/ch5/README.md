@@ -11,3 +11,4 @@
 ### 특정 거리의 도시 찾기
 
 - [문제 링크(백준)](https://www.acmicpc.net/problem/18352)
+- [블로그 링크](https://nostalgic-marquis-7af.notion.site/d6641208d4ae4f41939ae8aec5aeda31)
